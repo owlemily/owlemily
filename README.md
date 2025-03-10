@@ -1,7 +1,8 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Sujin's%20GitHub%20-%20Connecting%20Data%20to%20the%20World)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=778899&height=250&section=header&text=Connecting%20Data%20to%20the%20World&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20|%20Sujin%20Lee%20An&descAlignY=53&descAlign=70)
+
 </div>
 
 <div>
