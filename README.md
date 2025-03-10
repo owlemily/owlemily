@@ -9,9 +9,12 @@
   <!--Body-->
   
   ## :whale2: Experience
-  
+
   ## :whale2: Education
-   
+  - 네이버 부스트캠프 AI Tech 7기 (2024.08 - 2025.02)
+  - 2023 데이터 청년 캠퍼스 
+  - 상명대학교(서울캠퍼스) 재학 (2021.3 - )
+
   ## :whale2: Tech Stacks
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
