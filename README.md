@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=778899&height=230&section=header&text=Connecting%20Data%20to%20the%20World&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20|%20Sujin%20Lee%20&descAlignY=60&descAlign=70)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=778899&height=230&section=header&text=Connecting%20Data%20to%20the%20World&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20|%20Sujin%20Lee%20&descAlignY=60&descAlign=85)
 
 </div>
 
