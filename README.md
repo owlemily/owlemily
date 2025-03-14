@@ -22,8 +22,9 @@
   ## :whale2: Education
   - 상명대학교(서울캠퍼스) 빅데이터융합 / 컴퓨터과학 전공 (2021.03 - 2026.02)
 
-  <!--
+<!--  
   ## :whale2: Tech Stacks
+<!--  
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
   <!--PyTorch-->
