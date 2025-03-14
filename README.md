@@ -12,9 +12,9 @@
   - 
   ## :whale2: Activities
   - **네이버 부스트캠프 AI Tech 7기 (2024.08 - 2025.02)**
-    - 기업해커톤(티빙 - Video-to-Text 및 Text-to-Frame Retrieval) 1위
+    - 기업해커톤(티빙 - Video-to-Text 및 Text-to-Frame Retrieval) 1위 :trophy:
   - **2023 데이터 청년 캠퍼스(빅데이터 분석 기반 금융분야 비즈니스 인사이트 역량제고 과정) 수료 (2023.06 - 2023.08)**
-    - 데이터청년캠퍼스 우수상
+    - 데이터청년캠퍼스 우수상 :trophy:
     - 한국정보처리학회 ACK 2023 논문게재 [가계대출 연체율 예측을 통한 시도별 정책 방향성 연구](https://www.riss.kr/link?id=A108901717)
   - **상명대학교 빅데이터 GRIT 연구실 (2024.03 - )**
   ## :whale2: Education
