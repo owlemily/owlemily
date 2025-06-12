@@ -26,7 +26,15 @@
   ## :whale2: Major
   - 상명대학교(서울캠퍼스) 빅데이터융합 / 컴퓨터과학 전공 (2021.03 - 2026.02)
   </div>
+  
+  ## 📝 Velog
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=owlemily)](https://velog.io/@owlemily) -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=owlemily)](https://velog.io/@owlemily)  
 
+<br>
+
+  ## 🏆 Baekjoon Solved Rank
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=owlemily)](https://solved.ac/owlemily)
 
 <!--
 **owlemily/owlemily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
