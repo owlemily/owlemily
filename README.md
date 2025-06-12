@@ -8,10 +8,10 @@
 <div>
   <!--Body-->
   
-  ## :whale2: 저를 소개합니다!
+  ## :whale2: About Me!
   
 
-  ## :whale2: Activities
+  ## :whale2: Experience
   - **네이버 부스트캠프 AI Tech 7기 (2024.08 - 2025.02)**
     - NLP 도메인 수료
     - 기업해커톤(Video Scene Search System) 1위 :trophy:
