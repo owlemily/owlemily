@@ -31,8 +31,6 @@
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=owlemily)](https://velog.io/@owlemily) -->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=owlemily)](https://velog.io/@owlemily)  
 
-<br>
-
   ## 🏆 Baekjoon Solved Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=owlemily)](https://solved.ac/owlemily)
 
