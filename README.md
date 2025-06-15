@@ -7,9 +7,6 @@
 
 <div>
   <!--Body-->
-  
-  ## :whale2: About Me!
-  
 
   ## :whale2: Experience
   - **네이버 부스트캠프 AI Tech 7기 (2024.08 - 2025.02)**
@@ -20,14 +17,23 @@
     - 데이터청년캠퍼스 우수상 :trophy:
     - 한국정책학회 빅데이터분석 분야 프로젝트 평가 우수상 :trophy:
     
-  
   - **상명대학교 빅데이터 GRIT 연구실 (2024.03 - )**
     - ALTAIR 동아리 지원 프로그램 4기(2025.03 ~ ing)
 
   ## :whale2: Major
   - 상명대학교(서울캠퍼스) 빅데이터융합 / 컴퓨터과학 전공 (2021.03 - 2026.02)
   </div>
+
+  ## :whale2: Main languages & skills & tools
   
+  ![python](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
+  ![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![huggingface](https://img.shields.io/badge/-huggingface-E6A100?style=for-the-badge&logo=huggingface&logoColor=white)
+
+  - **others**
+
+![My Framework/Libraries & Tools](https://skillicons.dev/icons?i=java,sklearn,anaconda,mysql,git,github,linux,aws,docker,notion,obsidian)
+
   ## 📝 Velog
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=owlemily)](https://velog.io/@owlemily) -->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=owlemily)](https://velog.io/@owlemily)  
