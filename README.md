@@ -29,6 +29,8 @@
   ![python](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
   ![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
   ![huggingface](https://img.shields.io/badge/-huggingface-E6A100?style=for-the-badge&logo=huggingface&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
   - **others**
 
