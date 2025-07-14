@@ -9,9 +9,7 @@
   <!--Body-->
 
   ## :whale2: Experience
-  - **졸업 프로젝트**
-    - AI 기반 K-pop 안무 유사도 분석 시스템(입선상 :trophy:)
-    
+   
   - **네이버 부스트캠프 AI Tech 7기 (2024.08 - 2025.02)**
     - NLP 도메인 수료
     - 기업해커톤(Video Scene Search System) 1위 :trophy:
@@ -25,6 +23,7 @@
 
   ## :whale2: Major
   - 상명대학교(서울캠퍼스) 빅데이터융합 / 컴퓨터과학 전공 (2021.03 - 2026.02)
+  - **졸업 프로젝트**: AI 기반 K-pop 안무 유사도 분석 시스템(입선상 :trophy:)
   </div>
 
   ## :whale2: Main languages & skills & tools
