@@ -8,7 +8,7 @@
 <div>
   <!--Body-->
 
-  ## :whale2: Experience
+  ## Experience
    
   - **네이버 부스트캠프 AI Tech 7기 (2024.08 - 2025.02)**
     - NLP 도메인 수료
@@ -21,7 +21,7 @@
   - **상명대학교 빅데이터 GRIT 연구실 (2024.03 - )**
     - ALTAIR 동아리 지원 프로그램 4기(2025.03 ~ ing)
 
-  ## :whale2: Major
+  ## Major
   - **상명대학교(서울캠퍼스) 빅데이터융합 / 컴퓨터과학 전공** (2021.03 - 2026.02)
   - **Project**
     - **AI 기반 K-pop 안무 유사도 분석 시스템**(2025.03 - 2025.05)
@@ -34,7 +34,7 @@
       2025-1 캡스톤디자인 경진대회 입선상 :trophy:
   </div>
 
-  ## :whale2: Main languages & skills & tools
+  ## Main languages & skills & tools
   
   ![python](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
   ![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
