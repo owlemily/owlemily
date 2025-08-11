@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=230&section=header&text=Sujin's%20Lab%20&fontSize=70&animation=fadeIn&fontAlignY=35%20%20|%20n%20%20&descAlignY=55&descAlign=85&fontColor=000080)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=F7DDBE&height=230&section=header&text=Sujin's%20Lab%20&fontSize=70&animation=fadeIn&fontAlignY=35%20%20|%20n%20%20&descAlignY=55&descAlign=85&fontColor=brown)
 
 </div>
 
