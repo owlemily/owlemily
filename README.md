@@ -46,10 +46,6 @@
 
 ![My Framework/Libraries & Tools](https://skillicons.dev/icons?i=java,sklearn,anaconda,mysql,git,github,linux,aws,docker,notion,obsidian)
 
-  ## 📝 Velog
-<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=owlemily)](https://velog.io/@owlemily) -->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=owlemily)](https://velog.io/@owlemily)  
-
   ## 🏆 Baekjoon Solved Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=owlemily)](https://solved.ac/owlemily)
 
