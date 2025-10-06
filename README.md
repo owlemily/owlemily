@@ -9,7 +9,8 @@
   <!--Body-->
 
   ## Experience
-   
+  - **현대홈쇼핑 청년인턴십(DT 전략팀)(2025.08 - ing)**
+    
   - **부스트캠프 AI Tech 7기(네이버 커넥트 재단) (2024.08 - 2025.02)**
     - NLP 도메인 수료
     - 기업해커톤(Video Scene Search System) 티빙 부문 1위 :trophy:
