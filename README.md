@@ -35,17 +35,6 @@
       2025-1 캡스톤디자인 경진대회 입선상 :trophy:
   </div>
 
-  ## Main languages & skills & tools
-  
-  ![python](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
-  ![pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![huggingface](https://img.shields.io/badge/-huggingface-E6A100?style=for-the-badge&logo=huggingface&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-  - **others**
-
-![My Framework/Libraries & Tools](https://skillicons.dev/icons?i=java,sklearn,anaconda,mysql,git,github,linux,aws,docker,notion,obsidian)
 
   ## 🏆 Baekjoon Solved Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=owlemily)](https://solved.ac/owlemily)
